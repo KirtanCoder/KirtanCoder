@@ -1,3 +1,7 @@
+[![An image of @kirtancoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirtancoder)](https://holopin.io/@kirtancoder)
+
+
+
 <h1 align="center">Hi 👋, I'm Kirtan kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
