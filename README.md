@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtancoder&label=Profile%20views&color=0e75b6&style=flat" alt="kirtancoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KirtanCoder" alt="kirtancoder" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=KirtanCoder](https://avatars.githubusercontent.com/u/171168049?v=4)" alt="kirtancoder" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
