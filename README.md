@@ -9,7 +9,7 @@
   <img src="https://github.com/KirtanCoder.png" width="150" />
 </p> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=KirtanCoder](https://avatars.githubusercontent.com/u/171168049?v=4)" alt="kirtancoder" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
